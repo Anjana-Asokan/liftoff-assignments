@@ -12,9 +12,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-[Home Page](P3-Project_Planning/Resources/HomePage.png)
-[Login Page](P3-Project_Planning/Resources/LogIn.png)
-[Sign Up Page](P3-Project_Planning/Resources/SignUp.png)
+[Home Page](https://github.com/Anjana-Asokan/liftoff-assignments/blob/master/P3-Project_Planning/Resources/HomePage.png)
+[Login Page](https://github.com/Anjana-Asokan/liftoff-assignments/blob/master/P3-Project_Planning/Resources/LogIn.png)
+[Sign Up Page](https://github.com/Anjana-Asokan/liftoff-assignments/blob/master/P3-Project_Planning/Resources/SignUp.png)
 
 ### Project Tracker
 
